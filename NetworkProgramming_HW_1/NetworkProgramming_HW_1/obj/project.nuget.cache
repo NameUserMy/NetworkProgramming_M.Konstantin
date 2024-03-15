@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Ea39l7ZilEWb1qPF0tKyK2zqcI/+tXfgURIWJfgX+eUACZdnctpHCoaOCtFALqa6q9k1n1YXklLZxLRz1649w==",
+  "success": true,
+  "projectFilePath": "H:\\KASHAG\\programming\\NetworkProgramming\\HW\\NetworkProgramming_HW_1\\NetworkProgramming_HW_1\\NetworkProgramming_HW_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\I\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

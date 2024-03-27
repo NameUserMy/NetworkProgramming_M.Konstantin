@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetworkProgramming_HW_4", "NetworkProgramming_HW_4\NetworkProgramming_HW_4.csproj", "{31848F38-AA1A-4B52-9096-7DC2C1EF6BCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerUdp", "ServerUdp\ServerUdp.csproj", "{EF3EA5EC-1CCD-4613-BDC0-F7A3363CB4C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31848F38-AA1A-4B52-9096-7DC2C1EF6BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31848F38-AA1A-4B52-9096-7DC2C1EF6BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31848F38-AA1A-4B52-9096-7DC2C1EF6BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31848F38-AA1A-4B52-9096-7DC2C1EF6BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF3EA5EC-1CCD-4613-BDC0-F7A3363CB4C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF3EA5EC-1CCD-4613-BDC0-F7A3363CB4C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF3EA5EC-1CCD-4613-BDC0-F7A3363CB4C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF3EA5EC-1CCD-4613-BDC0-F7A3363CB4C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73217D91-4523-455F-8705-B3B53DA95055}
+	EndGlobalSection
+EndGlobal

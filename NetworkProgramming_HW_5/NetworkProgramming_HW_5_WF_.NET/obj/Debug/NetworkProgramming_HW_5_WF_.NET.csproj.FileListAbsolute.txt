@@ -1,0 +1,10 @@
+H:\KASHAG\programming\NetworkProgramming\HW\NetworkProgramming_HW_5_WF_.NET\NetworkProgramming_HW_5_WF_.NET\bin\Debug\NetworkProgramming_HW_5_WF_.NET.exe.config
+H:\KASHAG\programming\NetworkProgramming\HW\NetworkProgramming_HW_5_WF_.NET\NetworkProgramming_HW_5_WF_.NET\bin\Debug\NetworkProgramming_HW_5_WF_.NET.exe
+H:\KASHAG\programming\NetworkProgramming\HW\NetworkProgramming_HW_5_WF_.NET\NetworkProgramming_HW_5_WF_.NET\bin\Debug\NetworkProgramming_HW_5_WF_.NET.pdb
+H:\KASHAG\programming\NetworkProgramming\HW\NetworkProgramming_HW_5_WF_.NET\NetworkProgramming_HW_5_WF_.NET\obj\Debug\NetworkProgramming_HW_5_WF_.NET.csproj.AssemblyReference.cache
+H:\KASHAG\programming\NetworkProgramming\HW\NetworkProgramming_HW_5_WF_.NET\NetworkProgramming_HW_5_WF_.NET\obj\Debug\NetworkProgramming_HW_5_WF_.NET.Form1.resources
+H:\KASHAG\programming\NetworkProgramming\HW\NetworkProgramming_HW_5_WF_.NET\NetworkProgramming_HW_5_WF_.NET\obj\Debug\NetworkProgramming_HW_5_WF_.NET.Properties.Resources.resources
+H:\KASHAG\programming\NetworkProgramming\HW\NetworkProgramming_HW_5_WF_.NET\NetworkProgramming_HW_5_WF_.NET\obj\Debug\NetworkProgramming_HW_5_WF_.NET.csproj.GenerateResource.cache
+H:\KASHAG\programming\NetworkProgramming\HW\NetworkProgramming_HW_5_WF_.NET\NetworkProgramming_HW_5_WF_.NET\obj\Debug\NetworkProgramming_HW_5_WF_.NET.csproj.CoreCompileInputs.cache
+H:\KASHAG\programming\NetworkProgramming\HW\NetworkProgramming_HW_5_WF_.NET\NetworkProgramming_HW_5_WF_.NET\obj\Debug\NetworkProgramming_HW_5_WF_.NET.exe
+H:\KASHAG\programming\NetworkProgramming\HW\NetworkProgramming_HW_5_WF_.NET\NetworkProgramming_HW_5_WF_.NET\obj\Debug\NetworkProgramming_HW_5_WF_.NET.pdb

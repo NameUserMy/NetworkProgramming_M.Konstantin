@@ -1,0 +1,16 @@
+H:\KASHAG\programming\NetworkProgramming\HW\NetworkProgramming_HW_6\SendingMailBySMTP\bin\Debug\SendingMailBySMTP.exe.config
+H:\KASHAG\programming\NetworkProgramming\HW\NetworkProgramming_HW_6\SendingMailBySMTP\bin\Debug\SendingMailBySMTP.exe
+H:\KASHAG\programming\NetworkProgramming\HW\NetworkProgramming_HW_6\SendingMailBySMTP\bin\Debug\SendingMailBySMTP.pdb
+H:\KASHAG\programming\NetworkProgramming\HW\NetworkProgramming_HW_6\SendingMailBySMTP\obj\Debug\SendingMailBySMTP.csproj.AssemblyReference.cache
+H:\KASHAG\programming\NetworkProgramming\HW\NetworkProgramming_HW_6\SendingMailBySMTP\obj\Debug\MainWindow.g.cs
+H:\KASHAG\programming\NetworkProgramming\HW\NetworkProgramming_HW_6\SendingMailBySMTP\obj\Debug\App.g.cs
+H:\KASHAG\programming\NetworkProgramming\HW\NetworkProgramming_HW_6\SendingMailBySMTP\obj\Debug\SendingMailBySMTP_MarkupCompile.cache
+H:\KASHAG\programming\NetworkProgramming\HW\NetworkProgramming_HW_6\SendingMailBySMTP\obj\Debug\SendingMailBySMTP_MarkupCompile.lref
+H:\KASHAG\programming\NetworkProgramming\HW\NetworkProgramming_HW_6\SendingMailBySMTP\obj\Debug\MainWindow.baml
+H:\KASHAG\programming\NetworkProgramming\HW\NetworkProgramming_HW_6\SendingMailBySMTP\obj\Debug\SendingMailBySMTP.g.resources
+H:\KASHAG\programming\NetworkProgramming\HW\NetworkProgramming_HW_6\SendingMailBySMTP\obj\Debug\SendingMailBySMTP.Properties.Resources.resources
+H:\KASHAG\programming\NetworkProgramming\HW\NetworkProgramming_HW_6\SendingMailBySMTP\obj\Debug\SendingMailBySMTP.csproj.GenerateResource.cache
+H:\KASHAG\programming\NetworkProgramming\HW\NetworkProgramming_HW_6\SendingMailBySMTP\obj\Debug\SendingMailBySMTP.csproj.CoreCompileInputs.cache
+H:\KASHAG\programming\NetworkProgramming\HW\NetworkProgramming_HW_6\SendingMailBySMTP\obj\Debug\SendingMailBySMTP.exe
+H:\KASHAG\programming\NetworkProgramming\HW\NetworkProgramming_HW_6\SendingMailBySMTP\obj\Debug\SendingMailBySMTP.pdb
+H:\KASHAG\programming\NetworkProgramming\HW\NetworkProgramming_HW_6\SendingMailBySMTP\obj\Debug\GeneratedInternalTypeHelper.g.cs

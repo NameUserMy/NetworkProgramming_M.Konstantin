@@ -1,0 +1,36 @@
+﻿<Window x:Class="NetworkProgramming_HW_6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NetworkProgramming_HW_6"
+        xmlns:Vm="clr-namespace:NetworkProgramming_HW_6.Model"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="150" Width="250" WindowStartupLocation="CenterScreen">
+
+    <Window.DataContext>
+        <Vm:MonewViwModel/>
+    </Window.DataContext>
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+       
+        <ListView Grid.Row="0" Grid.Column="0" x:Name="listMoney" ItemsSource="{Binding Money}" >
+
+            <ListView.View >
+                <GridView>
+                    <GridViewColumn DisplayMemberBinding="{Binding ccy}" Header="Currency"></GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding buy}"  Header="Buy"  ></GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding sale}"  Header="Sale"  ></GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding base_ccy}" Header="UAH"  ></GridViewColumn>
+
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <Button x:Name="GetMoney" Grid.Column="0" Grid.Row="1" Click="GetMoney_Click" Content="Update"></Button>
+    </Grid>
+</Window>
